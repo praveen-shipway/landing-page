@@ -83,3 +83,21 @@ ul {
 .box-text {
 	width: 200px;
 }
+
+.quote {
+	background-color: #E5E7EB;
+	padding: 100px 200px;
+}
+
+.quote-text {
+	font-size: 36px;
+	font-weight: lighter;
+	font-style: italic;
+	color: #1F2937;
+}
+
+.quote-author {
+	text-align: right;
+	font-weight: bold;
+	font-size: 30px;
+}
